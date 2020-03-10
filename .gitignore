@@ -19,6 +19,9 @@ lib64/
 parts/
 sdist/
 var/
+venv/
+venv
+__pycache__
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
